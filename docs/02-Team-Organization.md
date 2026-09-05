@@ -20,3 +20,7 @@ This Charter was created using the shared team goals for this course, as well as
 Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
 
  > "Google's mission is to organize the world's information and make it universally accessible and useful."
+
+Team 205 designs precision robotic arm systems on the cutting edge of research technology and with cost efficiency as an important driver of success. By pushing the boundaries of robotic articulation and control, we deliver real-world value to clients, investors, and our community.
+
+This mission statement was devised based on each of our shared hopes for the project, as well as how we would like our product to be recieved by patrons. We want to exemplify industry-standard technology and practices while also making sure the consumer is interested in the product.
