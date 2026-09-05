@@ -28,5 +28,5 @@ Dr. Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Carlos Valenzuela                | [cdvalen2.GitHub](https://cdvalen2.github.io/cdvalen2_EGR304_F26.github.io/) |
 | Jacob Silber                | [jsilber27.GitHub](https://jsilber27.github.io/jsilber27_EGR304_F26.github.io/) |
-| Name #3                | link |
-| Name #4                | link |
+| Herman Williams                | [hwilli84.GitHub](https://hwilli84.github.io/hwilli84_EGR304_F26.github.io/) |
+| Troy Owen                | [century248.GitHub](https://century248.github.io/Century248_EGR304_F26.github.io/) |
