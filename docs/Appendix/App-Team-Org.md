@@ -117,8 +117,11 @@ Conflicts of interest should be discussed as soon as they arise and the team sha
 ## Signatures
 
 Herman Williams   —–– Team 205
+
 Carlos Valenzuela  —–– Team 205
+
 Troy Owen —–– Team 205
+
 Jacob Silber —— Team 205
 
 
