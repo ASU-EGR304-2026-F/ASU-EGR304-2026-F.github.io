@@ -11,6 +11,9 @@ From the ... which can be reviewed in ["Appendix: Team Organization"](https://em
 
 > "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
 
+Team 205 strives to create a culture of learning and team building that is illustrated by the successful completion of a marketable product meeting both educational and industry standards. We aim to grow personally and professionally into capable engineers in practical, technical, and social areas as we complete this course.
+
+
 ## Product Mission Statement
 
 Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
