@@ -13,6 +13,7 @@ From the ... which can be reviewed in ["Appendix: Team Organization"](https://em
 
 Team 205 strives to create a culture of learning and team building that is illustrated by the successful completion of a marketable product meeting both educational and industry standards. We aim to grow personally and professionally into capable engineers in practical, technical, and social areas as we complete this course.
 
+This Charter was created using the shared team goals for this course, as well as personal achievement aims of each member. Each member wants to develop something they can be proud of during the course as well as pick up and utilize necessary soft skills.
 
 ## Product Mission Statement
 

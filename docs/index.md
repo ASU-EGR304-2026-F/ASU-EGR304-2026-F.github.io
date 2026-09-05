@@ -26,7 +26,7 @@ Dr. Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Name #1                | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
+| Carlos Valenzuela                | [cdvalen2.GitHub](https://cdvalen2.github.io/cdvalen2_EGR304_F26.github.io/) |
+| Jacob Silber                | [jsilber27.GitHub](https://jsilber27.github.io/jsilber27_EGR304_F26.github.io/) |
 | Name #3                | link |
 | Name #4                | link |
