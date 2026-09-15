@@ -293,6 +293,65 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2.  The product needs to have a sturdy base (latent)|
 |
 
+### Search #5
+
+**Keywords:** "Smart Plant Monitor"
+
+**Search Results Link:** [https://www.amazon.com/s?k=smart+Self+Watering+Pots&crid=38QW7BA4WS0FF&sprefix=smart+self+watering+pots%2Caps%2C201&ref=nb_sb_noss_1](https://www.amazon.com/s?k=smart+Self+Watering+Pots&crid=38QW7BA4WS0FF&sprefix=smart+self+watering+pots%2Caps%2C201&ref=nb_sb_noss_1)
+
+### Selected Products
+
+#### 1. [Smart Plant Pot with Screen, 80ml Self-Watering Planter Green](https://www.amazon.com/Moisture-Self-Watering-Reservoir-Supports-Pomodoro/dp/B0G49PYXL4/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1)
+
+* Price: $92.99
+
+* Vendor: Amazon
+
+* Description: Smart APP Control & Real-Time Plant Monitoring: Connect the smart hydroponic planter to your mobile app to easily track plant health. Monitor soil moisture, water level, temperature, humidity, sunlight exposure, and battery status in real time. Supports 100+ plant types, helping you grow herbs, flowers, and small plants effortlessly.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "This little pot is a tad on the pricey side but I went out on a limb and bought it since I’m bad at keeping plants alive. This has been so fun and my plan is thriving. It doesn’t make noise which I like and alerts you when it needs water." | 1.  This product is silent during use(explicit)                              |
+|                                                                                                                                                                                        | 2.  The product alerts the user when plants require water (explicit)|
+|                                                                                                                                                                                        | 3.  The product helps users keep keep plants alive (latent)
+|                                                                  
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I’m still learning when my plants actually need water, so I really like being able to glance at the screen and check the soil moisture instead of guessing. It also shows the light level and water level, which has been helpful when I’m trying different spots around the house to see where my plant does better. The self-watering feature is convenient, especially on days when I’m busy and forget to check my plants. I also wasn’t expecting to use the extra features as much as I do. Having the clock and Pomodoro timer right there makes it cute to keep on my desk while I’m working or studying. The green color and little screen give it a fun look, so it feels more like desk decor than a regular planter. I’ve been enjoying checking the screen and seeing how my plant is doing throughout the day." | 1.  The product displays light level information (explicit)                              |
+|                                                                                                                                                                                        | 2.  The product displays real time soil moisture levels (latent)|
+|                                                                                                                                                                                        | 3.  The product displays water level information (explicit)
+|                                                                                                                                                                                        | 4.  The product has automatic water dispensation (explicit)
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "This thing is ridiculously cute, but the nice surprise is that it is not just a gimmick. I ordered the green one for myself and liked it so much that I went back and got the pink one as a gift for my daughter. Amazon will probably only let me review it once, but I have now seen two of them and both made a great first impression. The presentation is excellent right out of the box. It feels giftable, polished, and just plain fun. The planter itself is also very well done. It has a built-in display, touch controls, USB recharging, app connectivity, and a self-watering reservoir, but it never feels overly complicated or intimidating to set up. What really makes it stand out is how much information it gives you. It can monitor things like water level, moisture, temperature, and sunlight, and it also seems to have plant-specific guidance instead of giving the same generic advice for everything. I like that it is not just tracking whether there is water in the planter, but also helping you understand how the plant is doing over time. That makes it much more useful than a decorative planter with a screen slapped on it. The app and instructions were also better than I expected. The setup guides and videos were clear, and the connected features add a lot. It is aware of things like time of day and other environmental context, so it feels more thoughtful than a basic planter gadget. That said, the part that really sells it is the personality. When it is just sitting on a desk idle, it makes all kinds of cute faces and little animations. It reacts to taps and interaction, and I keep catching new expressions and behaviors even after staring at it for a week. It has a lot more charm than I expected. Overall, this is one of those products that manages to be both useful and fun. It is a smart indoor planter with real monitoring features, but it is also an adorable desk companion. For a plant lover, office desk, dorm, or gift, I think this is a really charming little gadget." | 1.  The product provides touch controls (explicit)                              |
+|                                                                                                                                                                                        | 2.  The product provides usb charging (explicit)|
+|                                                                                                                                                                                        | 3.  The product provides a companioning mobile app (explicit)
+|                                                                                                                                                                                        | 4.  The product provides a straightforward set up (latent)
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Purchased this June 12th today is August 7th display no longer works. And this item says it cannot be exchanged after 30 days. No one will assist. Buyer beware do not purchase this purchase for these reasons." | 1.  The product display continues working over long time use (latent)                               |
+|                                                                                                                                 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Stoped working from a day to another after a month or so. Struggled to put it back to work. Had to do a hard reset 2 times. the water captor is KO so I can't finish the sync." | 1.  The product provides a simple method to reset hardware (latent)                              |
+|                                                                                                                                                                                        | 2.  The product sensors accurately detect and synchronize water levels (latent)|
+|                                                                                                                                                                                        | 3.  The product is made with durable components (latent)
+|                                                                  
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Stay away from this. Works for a few months and then stops. Been emailing with them for close to 8 weeks and they keep on making up excuses and refuse to replace the defective unit. Now they are telling me to reach out to Amazon to replace which is just rediculous. They are the manufacturer not Amazon and it’s past their normal exchange window. Don’t waste your money on a novelty like this." | 1.  The product makes it easy to repair and maintain (latent)                               |
+|                                                                                                                                                                                        | 2.  The product has readily available replacement parts (explicit)|
+|
+
 ## Organized Need Statements
 
 ### First Placement
