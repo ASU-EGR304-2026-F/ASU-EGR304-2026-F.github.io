@@ -169,6 +169,12 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2.  The product needs to be more carefully packaged (latent)|
 |
 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "The meter was working properly only for a few weeks. I have several of them and they are all stopped detecting water in dirt. I am attaching the video showing that the plant I just watered and the meter doesn't show that soil is wet. I kept all of my meter carefully, following this company instructions. There should not be a problem with detecting water in soil. Over watering plants = dead plant. I would not recommend this meter and I am not buying this type of meter again." | 1.  The product needs to be carefully constructed (latent)                              |
+|                                                                                                                                                                                        | 2.  The product needs to do well at sensing wetness (explicit)|
+|                                                                  
+
 ### Search #3
 
 **Keywords:** "Irrigation Monitor"
@@ -227,6 +233,65 @@ title: User Needs and Benchmarking
 | "Everything about this controller was great until the rain and wind skip intelligence became inaccurate. It doesn’t sync to local weather accurately so it did not skip watering when it was raining 2.5” of rain. It also decided to perform a wind skip when there was no wind. The AC adapter is also extremely bulky and gets quite hot. Needs to improve weather intelligence. Whereas my Orbit is weather accurate and the smart setup is also easy. I should’ve stuck with that ecosystem and I’m going back to Orbit. I’m returning this." | 1.  The product syncs to local weather reports like it states. (latent)                               |
 |                                                                                                                                                                                        | 2.  The product performs in differing levels of rain (latent)|
 |
+### Search #4
+
+**Keywords:** "Plant Grow Light"
+
+**Search Results Link:** [https://www.amazon.com/s?k=plant+grow+light&crid=3JQVLKVU533V&sprefix=plant+grow+ligh%2Caps%2C199&ref=nb_sb_noss_2](https://www.amazon.com/s?k=plant+grow+light&crid=3JQVLKVU533V&sprefix=plant+grow+ligh%2Caps%2C199&ref=nb_sb_noss_2)
+
+### Selected Products
+
+#### 1. [Grow Lights for Indoor Plants, Clip-On LED Clamp, Single Head](https://www.amazon.com/Sonamindary-Lights-Indoor-Plants-Single/dp/B0FRF7SQHD/ref=sr_1_3_sspa?crid=3JQVLKVU533V&dib=eyJ2IjoiMSJ9.vNnluaRUJQODZ6lonjgvQ7DoWLDdNPCzb36x7IMMIjZSGk0e7Y2gg_mq14veVJ4LVHD9nZWwG4rocMBPaO8SEPAcZIMVdKibZScN43mpMXaVR5hVIGDM8JEUWoEhf6ewxiIZQVHzGP7b7oRW1qZv3w3Fq3H3YK1Tl8JSpWuRTEd8u09vt-J9wijIhZD8LIMzH4LMTVvd_R6gAIsyHKZMy3yzLVXC6jFj5I_XeZZH_nf7CW81eTbB3clOQX4OJJBs9PjzCbiV1XUIlNNRMyLcYNgfKTdGXsmsMO1VKF2CZLk.hSkZdQ1CjHy4UAvvf9Rnn3SVM0lMnXYgMD-Oi63_mnQ&dib_tag=se&keywords=plant%2Bgrow%2Blight&qid=1789445331&sprefix=plant%2Bgrow%2Bligh%2Caps%2C199&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+
+* Price: $19.99
+
+* Vendor: Amazon
+
+* Description: Grow Lights for Indoor Plants-5700K Full Spectrum Lighting,The single lamp head features 60 LEDs, including 48 white, 8 red, and 4 blue LEDs, providing balanced supplemental light for seedlings, succulents, herbs, foliage plants, and flowering plants throughout different growth stages. Flexible Metal Arm with Silicone Sleeve - The metal arm is wrapped with an additional silicone sleeve for improved support, durability, and stability. The flexible arm allows you to direct the light toward the plant canopy while helping the lamp head maintain its selected angle with less wobbling or sagging.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Needed lights for my African violets. I really like the ability to set a timer on these plus how easy it is to set. You can plug these lights into a regular outlet but, for me, it's handy to use a USB port. Nice to have the power option. The best part is the light spectrum, my plants are doing very well and covered in flowers. The lights clip right on to the shelf where the plants are. All in all they are well designed." | 1.  The product is precise for its applications and uses. (latent)                              |
+|                                                                                                                                                                                        | 2.  The product is adaptable to different devices with a USB port (explicit)|
+|                                                                                                                                                                                        | 3.  The product is able to clip onto a surface (explicit)
+|                                                                                                                                                                                        | 4.  The product is zero maintenance after initial setup and plugin to electricity (latent)                                                                                                                                                                                        
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "When I received the light, the size concerned me a little, but to be honest, it's a bright little power house for the size. I'm still waiting to use it for starting my seedlings but I'm sure the light will do the job. If you have a lot of plants you might want to consider several of these to cover the number of plants you have, For my 10 seed tray it's perfect, I also placed my seed tray in a large box with aluminum foil lining to maximize the light coverage.  if anything changes." | 1.  The product is intuitive and self-explanatory (explicit)                              |
+|                                                                                                                                                                                        | 2.  The product lasts for a long time (explicit)|
+|                                                                                                                                                                                        | 3.  The product is reasonably priced for the performance of said product(explicit)
+|                                                                                                                                                                                        | 4.  The product is easy to install (latent)
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "We have limited direct sunlight in our house so my plants always struggle. This little light has made them very happy. The timer feature is great so I don’t have to remember to turn it on and off. I will probably be buying more to help my other plants." | 1.  The product is overall reliably on providing a sunlight substitute (latent)                              |
+|                                                                                                                                                                                        | 2.  The product allows for a set-and-forget type of use(explicit)|
+|                                                                                                                                                                                        | 3.  The product works across all standard electrical outlets in North America (explicit)
+|                                                                                                                                                                                        | 4.  The product saves prevents the owner from physically exposing plants to sunlight (latent)
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I like the brightness of the light, but it's rather top heavy. I have it clipped on the side of a larger sized planter, with enough slack in the cord, and it still makes my plant tip over. I do however, like that there is a timer on it so I don't have to worry about forgetting to turn it on and off every day. I just wish this were a bit sturdier than it is." | 1.  The product requires a sturdy surface to mount to(latent)                               |
+|                                                                                                                                                                                        | 2.  The product needs to be effectively sized to accommodate common plant seeds.(latent)|
+|                                                                 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Timer stopped working after 3 months, lights stopped working a month later. What a waste of money." | 1.  The product needs to have an effective and durable timer (latent)                               |
+|                                                                                                                                                                                        | 2.  The product takes care of having you to do physical and mental reminders to light your plants (latent)|
+|
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "The base cracked the first time I moved it across the desk...base is PLASTIC" | 1.  The product base needs to be sturdy enough to handle normal human wear and tear. (latent)                               |
+|                                                                                                                                                                                        | 2.  The product needs to have a sturdy base (latent)|
+|
+
 ## Organized Need Statements
 
 ### First Placement
