@@ -68,7 +68,7 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Moisture-Temperature-Intensity-Backlight-Gardening/dp/B0DF4TB93J/ref=sr_1_2_sspa?crid=1FQORIMNKU5ID&dib=eyJ2IjoiMSJ9.h4zQR4ilpCdAganfx1vip5ylS6aEBStF0IZG05Ysfew4M4uVgGDpCGKfxAf9XMvfGWgOw07FBli46utzJ2ZytmgboDoaDFUBwOzHDDFNjwnZSihFFrATQ4UPLeBxHPmh-NdceLA7PnHqUFbgGnR8vvXIFnIJFYWP5pGIFbrkfXItbqSz1M-JU0PWY2NF630pE5KNYDyj2NmhuPYGxAlBVe8wZh3TrHIrZjLN5L94x2s-u3AyHS5e0ex1XrveJQSyDQZ_1rqjsAhjrtpMwFqpmtJS765p22klr5OywLkbd50._YGFK4mdpjmErp_Orb5JKJ2Hi9rKWoSERZV47iEhyh4&dib_tag=se&keywords=plant+monitor&qid=1789361765&sprefix=plant+monitor%2Caps%2C219&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+#### 1. [YAMRON 4-in-1 Soil Moisture Meter Digital Plant for Indoor ＆ Outdoor Plants](https://www.amazon.com/Moisture-Temperature-Intensity-Backlight-Gardening/dp/B0DF4TB93J/ref=sr_1_2_sspa?crid=1FQORIMNKU5ID&dib=eyJ2IjoiMSJ9.h4zQR4ilpCdAganfx1vip5ylS6aEBStF0IZG05Ysfew4M4uVgGDpCGKfxAf9XMvfGWgOw07FBli46utzJ2ZytmgboDoaDFUBwOzHDDFNjwnZSihFFrATQ4UPLeBxHPmh-NdceLA7PnHqUFbgGnR8vvXIFnIJFYWP5pGIFbrkfXItbqSz1M-JU0PWY2NF630pE5KNYDyj2NmhuPYGxAlBVe8wZh3TrHIrZjLN5L94x2s-u3AyHS5e0ex1XrveJQSyDQZ_1rqjsAhjrtpMwFqpmtJS765p22klr5OywLkbd50._YGFK4mdpjmErp_Orb5JKJ2Hi9rKWoSERZV47iEhyh4&dib_tag=se&keywords=plant+monitor&qid=1789361765&sprefix=plant+monitor%2Caps%2C219&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 * Price: $32.98
 
@@ -92,6 +92,35 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 3.  The product is reasonably priced (explicit)
 |                                                                                                                                                                                        | 4.  The product is beginner friendly (latent)
 
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I have lots of indoor plants and always wonder when I'm supposed to water them, but then the plant store employee told me that I should get one of these and that it helps to know when to water your plant. This does not stay at zero when you take it out. It defaults to 5 degrees. But overall it seems to work well, you just have to take it out, wait a a few seconds and put then put it in another plant. It auto shuts off by itself and seems to let me know when the plants need to be watered." | 1.  The product is reliable (latent)                              |
+|                                                                                                                                                                                        | 2.  The product removes guesswork (explicit)|
+|                                                                                                                                                                                        | 3.  The product works on indoor plants (explicit)
+|                                                                                                                                                                                        | 4.  The product is efficient (latent)
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I would Not recommend this Yamron to test soil PH. I trusted its readings, amended the soil for blueberry bushes and after a few months the readings were around 3.1 (shooting for around 4:5-5:5 ph). The county extension office was suspicious and told me to calibrate my tester. Well, this Yamron soil tester is factory calibrated and cannot be calibrated again. I ordered PH calibration buffer solution to test and as you can see, is way off. The solution was mixed as instructed with 77 degree distilled water 250 ml. I could not contact the seller and an online search shows no contact for Yamron. The meter is manufactured by Cytentech, which is a Chinese hardware manufacturer. " | 1.  The product is able to be configured (latent)                               |
+|                                                                                                                                                                                        | 2.  The product stays predictable (latent)|
+|                                                                 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "It worked as described for approximately 40 - 50 days & afterwards the screen illuminated however display was gone rendering the unit useless. I take very good care of anything I own so user error can not be blamed.
+Despite my extra efforts making certain water didn’t get inside as the housing isn’t built for the environment we/customers use them in & as result took extra care making sure the unit was removed from the garden if rain was in the forecast as well as removing it during watering cycles for the vegetation." | 1.  The product avoids degrading (latent)                               |
+|                                                                                                                                                                                        | 2.  The product withstands varied environments (explicit)|
+|
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "These are pretty much useless in Texas. The displays will simply not work in bright sunlight- which is ALL of my garden. I have changed batteries but no change in display. The only way I can get them to work is to bring them inside the house for 10-15 minutes and then the display will work until I take it back outside to the garden and hoop house.
+Unfortunately I have wasted my $ on these and will have to purchase another brand. Disappointing cuz these aren’t the cheapest
+" | 1.  The product display is adaptable (latent)                               |
+|                                                                                                                                                                                        | 2.  The product performs in differing levels of sunlight (latent)|
+|
 
 ## Organized Need Statements
 
