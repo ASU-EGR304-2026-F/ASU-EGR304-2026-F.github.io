@@ -233,6 +233,7 @@ title: User Needs and Benchmarking
 | "Everything about this controller was great until the rain and wind skip intelligence became inaccurate. It doesn’t sync to local weather accurately so it did not skip watering when it was raining 2.5” of rain. It also decided to perform a wind skip when there was no wind. The AC adapter is also extremely bulky and gets quite hot. Needs to improve weather intelligence. Whereas my Orbit is weather accurate and the smart setup is also easy. I should’ve stuck with that ecosystem and I’m going back to Orbit. I’m returning this." | 1.  The product syncs to local weather reports like it states. (latent)                               |
 |                                                                                                                                                                                        | 2.  The product performs in differing levels of rain (latent)|
 |
+
 ### Search #4
 
 **Keywords:** "Plant Grow Light"
