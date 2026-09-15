@@ -459,6 +459,121 @@ title: User Needs and Benchmarking
 
 ### Grouped with categories
 
+Groupings
+
+Groups were chosen due to obvious areas in which each needs statement was related to others
+
+1. Measurement, Monitoring & Accuracy
+* The product provides accurate soil moisture readings. (explicit)
+* The product provides accurate soil pH readings. (explicit)
+* The product provides accurate light-intensity readings. (explicit)
+* The product delivers readings quickly. (explicit)
+* The product provides consistent readings across repeated measurements. (latent)
+* The product maintains measurement accuracy over time. (latent)
+* The product should provide accurate and trustworthy moisture readings. (explicit)
+* The meter should provide a stable reading quickly after insertion. (explicit)
+* The meter should provide consistent readings under the same conditions. (latent)
+* The product should maintain its accuracy and function over time. (latent)
+* The probe should reach deep enough to measure moisture near plant roots. (explicit)
+* The product should allow users to check moisture at different soil depths. (explicit)
+* The product is precise for its applications and uses. (latent)
+* The product displays light level information. (explicit)
+* The product displays real time soil moisture levels. (latent)
+* The product displays water level information. (explicit)
+* The product monitors ambient temperature.
+* The product stores/tracks plant health and environmental conditions over time. (latent)
+* The product sensors accurately detect and synchronize water levels. (latent)
+
+2. Plant Care, Guidance & Decision Support
+* The product helps users determine when plants need watering. (explicit)
+* The product reduces guesswork in soil preparation. (explicit)
+* The product supports pH management for different plants. (latent)
+* The product enables growers to verify whether plant lighting is sufficient. (explicit)
+* The product should provide enough information to support watering decisions. (explicit)
+* The product should help prevent overwatering. (explicit)
+* The product should help prevent underwatering. (explicit)
+* The meter should reduce guesswork when deciding when to water. (explicit)
+* The product should account for different moisture needs between plant types. (explicit)
+* The product alerts the user when plants require water. (explicit)
+* The product helps users keep plants alive. (latent)
+* The product offers plant specific care guidance. (explicit)
+* The product makes your irrigation lifestyle or hobby easier. (latent)
+
+3. Ease of Use, Setup & Interface
+* The product has an easy-to-read display. (explicit)
+* The product remains readable under typical outdoor lighting conditions. (explicit)
+* The product allows the display to be positioned for easier viewing. (explicit)
+* The product is easy for beginners to operate. (latent)
+* The product requires minimal user effort to obtain measurements. (explicit)
+* The product provides information that is easy to interpret. (explicit)
+* The moisture reading should be easy to understand at a glance. (explicit)
+* The product should be simple to operate without complicated setup. (explicit)
+* The display should be clearly visible and easy to read. (explicit)
+* The product is oversized for easy viewing. (latent)
+* The product is intuitive and self-explanatory. (explicit)
+* The product is overall reliably installed to a house. (latent)
+* The product is consistent with the ease of the app. (latent)
+* The product should allow for easy install without prior knowledge about similar items. (latent)
+* The product provides an internal display. (explicit)
+* The product provides touch controls. (explicit)
+* The product provides a straightforward set up. (latent)
+* The product provides clear step guides and instruction videos. (explicit)
+* The product is interactable and responsive. (explicit)
+* The product provides a simple method to reset hardware. (latent)
+
+4. Durability, Reliability & Environmental Resistance
+* The product remains functional during routine gardening activities. (latent)
+* The product withstands exposure to common gardening environments. (explicit)
+* The product resists damage from moisture during normal use. (latent)
+* The product provides dependable operation over an extended period. (latent)
+* The product should remain durable through repeated use in wet soil. (latent)
+* The meter should withstand accidental drops without losing functionality. (latent)
+* The probe should resist rust and corrosion during regular use. (latent)
+* The probe should be strong enough to enter soil without bending or breaking. (latent)
+* The product lasts through varied use zones. (explicit)
+* The product performs in differing levels of rain. (latent)
+* The product should be reliable and last many years as according to advertising. (latent)
+* The product should be resilient to bad weather conditions. (latent)
+* The product display continues working over long time use. (latent)
+* The product is made with durable components. (latent)
+5. Compatibility, Connectivity, Control & Automation
+* The product is suitable for both indoor and outdoor plants. (explicit)
+* The product accommodates a variety of plant types. (explicit)
+* The product operates without requiring additional testing equipment. (latent)
+* The product should work reliably with different types of soil and growing media. (explicit)
+* The product should operate without batteries or external power. (explicit)
+* The product should work effectively with a variety of plants and containers. (explicit)
+* The product is adaptable to different internet networks. (explicit)
+* The product allows for mobile control over a smartphone. (explicit)
+* The product works across different preprogrammed zones. (explicit)
+* The product requires downloading to use. (latent)
+* The product syncs to local weather reports like it states. (latent)
+* The product is automatically adjusted to local weather conditions. (latent)
+* The product should allow the owner to access it from a distance. (explicit)
+* The product should be accessible from any phone with the same login. (explicit)
+* The product should allow the user to access the irrigation results after a day of use. (explicit)
+* The product automatic water dispensation. (explicit)
+* The product provides USB charging. (explicit)
+* The product provides a companioning mobile app. (explicit)
+
+6. Convenience, Maintenance, Value & Additional Features
+* The product automatically powers off when not in use. (explicit)
+* The product provides good value relative to its cost. (explicit)
+* The meter should require minimal cleaning and maintenance. (latent)
+* The product should be lightweight and easy to move between plants. (explicit)
+* The probe should minimize disturbance to plant roots during use. (latent)
+* The product should provide reliable performance for its cost. (latent)
+* The product is zero maintenance after initial setup. (latent)
+* The product is reasonably priced for the performance of said product. (explicit)
+* The product saves a lot of time. (latent)
+* The product is backed by a responsive customer support team. (latent)
+* This product is silent during use. (explicit)
+* The product provides a clock. (explicit)
+* The product provides a Pomodoro timer. (explicit)
+* The product serves as decorative desk decor. (latent)
+* The product arrives in appropriate packaging. (latent)
+
+
 ### Ranked
 
 ## Compiled list of user Needs
