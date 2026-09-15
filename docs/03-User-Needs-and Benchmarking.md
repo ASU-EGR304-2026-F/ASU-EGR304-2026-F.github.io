@@ -70,7 +70,8 @@ title: User Needs and Benchmarking
 
 #### 1. [YAMRON 4-in-1 Soil Moisture Meter Digital Plant for Indoor ＆ Outdoor Plants](https://www.amazon.com/Moisture-Temperature-Intensity-Backlight-Gardening/dp/B0DF4TB93J/ref=sr_1_2_sspa?crid=1FQORIMNKU5ID&dib=eyJ2IjoiMSJ9.h4zQR4ilpCdAganfx1vip5ylS6aEBStF0IZG05Ysfew4M4uVgGDpCGKfxAf9XMvfGWgOw07FBli46utzJ2ZytmgboDoaDFUBwOzHDDFNjwnZSihFFrATQ4UPLeBxHPmh-NdceLA7PnHqUFbgGnR8vvXIFnIJFYWP5pGIFbrkfXItbqSz1M-JU0PWY2NF630pE5KNYDyj2NmhuPYGxAlBVe8wZh3TrHIrZjLN5L94x2s-u3AyHS5e0ex1XrveJQSyDQZ_1rqjsAhjrtpMwFqpmtJS765p22klr5OywLkbd50._YGFK4mdpjmErp_Orb5JKJ2Hi9rKWoSERZV47iEhyh4&dib_tag=se&keywords=plant+monitor&qid=1789361765&sprefix=plant+monitor%2Caps%2C219&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
-![Yamron](Yamron_monitor.png)
+![dead bug circuit](docs/image/Yamronmonitor.png){style="width:350px;"}
+
 * Price: $32.98
 
 * Vendor: Amazon
