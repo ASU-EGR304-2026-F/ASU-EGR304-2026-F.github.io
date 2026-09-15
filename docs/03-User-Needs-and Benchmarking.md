@@ -169,6 +169,64 @@ title: User Needs and Benchmarking
 |                                                                                                                                                                                        | 2.  The product needs to be more carefully packaged (latent)|
 |
 
+### Search #3
+
+**Keywords:** "Irrigation Monitor"
+
+**Search Results Link:** [https://www.amazon.com/s?k=irrigation%2Bmonitor&crid=ZKHYVAACJEBH&sprefix=irrigation%2Bmonitor%2Caps%2C229&ref=nb_sb_noss_2](https://www.amazon.com/s?k=irrigation%2Bmonitor&crid=ZKHYVAACJEBH&sprefix=irrigation%2Bmonitor%2Caps%2C229&ref=nb_sb_noss_2)
+
+### Selected Products
+
+#### 1. [Smart Sprinklers Controller 2.4GHz WiFi, Irrigation Controller Easy Use App Enabled, 4 Zones + 16 Plans, Save Water Auto Skip Rain, Freeze & Wind, 10 Minutes Install](https://www.amazon.com/Sprinklers-Controller-Irrigation-Enabled-Minutes/dp/B0F883P8N1/ref=sr_1_6?dib=eyJ2IjoiMSJ9.a5-HOKzNVkRvossrKUnKmxZfdnNi9oyn_V0spio0LlGv10yyJGSKc4vLXfFtuK-pP8JvwMiiBjzDvhbXahCjP9VaFf6q5a3l421iDFprberP60QDfogN0vkANQaetuZiWChknAoduVuioxGQ_G0l-Zt8taG17Pm4pjErtW_9Sfm8yxXyvRcPY3NXrVg9P-PQmcJt4RpgauuoHWuE3-67krG6_FjnKpKbEEenQnZJmxvKGDuPRZpuD4KpQRrg_0waVap0YTH8_e9YwPonAsxAzSD1JmjwsNBwQ6tNBVMAruw.T1qpa1Vnc-GUxh2p_bxS7JKoz8ukmsBbKDjyww_950Y&dib_tag=se&keywords=irrigation%2Bmonitor&qid=1789433823&sr=8-6&th=1)
+
+* Price: $39.99
+
+* Vendor: Amazon
+
+* Description: Easy Use App Control: Take charge of your sprinkler system from anywhere with the easy-to-use Hioazo app. Access watering schedules and monitor in real-time, so you won’t have to run back and forth to the garage anymore. Work indoors with 2.4GHz WIFI and 24VAC. Weather-Smart Functionality & Save Water: Stay ahead of nature's curve with intelligent skip features. Rain, frost, or wind? No worries! Our system automatically adapts, skipping watering sessions during unfavorable conditions to prevent plant stress and conserve water.
+
+##### Positive Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I’m very impressed with the quality, ease of installation and value. It has all the functionality I could want. WiFi worked well, just have to make sure the network is 2.4 GHz only, 5Ghz must be disabled during setup. It’s easy to use and the rain skip function works well. I really like getting notifications on rain, sensor, water usage, etc so I know what it’s doing. One note, it’s not EPA water sense certified like high end controllers. Not sure if they haven’t had time to get certified or the local weather sensing is not accurate but still well worth the very low price" | 1.  The product is precise for its applications and uses. (latent)                              |
+|                                                                                                                                                                                        | 2.  The product is adaptable to different internet networks (explicit)|
+|                                                                                                                                                                                        | 3.  The product is oversized for easy viewing (latent)
+|                                                                                                                                                                                        | 4.  The product is zero maintenance after initial setup (latent)
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "15 mins to install! Super easy and straight forward for anyone who can turn a Phillips screwdriver. Had a rain bird manual controller that the home builder installed. It worked great but it was a pain to always change scheduling based on the season here in Phoenix. Was about to buy an Orbital that was $110 and seen this and thought, we only have 2 zones and figured if it didn’t work out, it was returnable. I installed it today and got it all dialed in from start to finish in 15 mins. Then about 10 more mins to set up the app and done! Super easy! Wish the app would let me save schedules based on seasons but so far I can’t find a way to work around it… it won’t let me create overlapping times even if one is selected to off. Minor issue with the app, not a huge ordeal since I only have two zones. If I had 16 zones then it would be an issue for me. 4 zones or less, not a deal breaker at all. I opted to paint the cover before install so it matches my wall better. It has plastic over the sight class so it made painting it easy! Paint, peel off the sight glass cover and it looks great! It’s mounted outdoors so we will see how it holds up long term. For 35 you can’t go wrong here! I’ll update if anything changes." | 1.  The product is intuitive and self-explanatory (explicit)                              |
+|                                                                                                                                                                                        | 2.  The product lasts through varied use zones (explicit)|
+|                                                                                                                                                                                        | 3.  The product is reasonably priced for the performance of said product(explicit)
+|                                                                                                                                                                                        | 4.  The product is easy to install (latent)
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I recently purchased the Smart Sprinkler Controller 2.4GHz WiFi, and it has made watering my garden much more convenient. The setup process was straightforward, and connecting it to my home WiFi was quick. The mobile app is easy to use and lets me control watering schedules from anywhere. I like being able to customize different zones and adjust watering times as needed. The controller has been working reliably without any connection issues. It has helped me save time and makes lawn care much easier. Overall, it's a great smart home upgrade, and I would recommend it to anyone looking for an efficient irrigation controller." | 1.  The product is overall reliably installed to a house (latent)                              |
+|                                                                                                                                                                                        | 2.  The product allows for mobile control over a smartphone(explicit)|
+|                                                                                                                                                                                        | 3.  The product works across different preprogrammed zones (explicit)
+|                                                                                                                                                                                        | 4.  The product saves a lot of time (latent)
+
+##### Negative Comments
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "I wired up the sprinkler system and downloaded the app. I was able to communicate with the sprinkler controller however, when I tried to run a test zone, it would not work. I needed a sprinkler control controller that had both a C and an M terminal to connect my communications and Master valve. I connected everything up appropriately and the unit doesn’t work. I reached out to customer service, opened up a ticket and have not heard back in 5 days. Lousy customer support isn’t worth spending money on this brand." | 1.  The product requires simple downloading to use (latent)                               |
+|                                                                                                                                                                                        | 2.  The product is backed by an exceptionally great customer support team (latent)|
+|                                                                 
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Very disappointed with this sprinkler system app. The biggest issue is that I frequently can't log into the app. When I do get access, my watering zones often disappear, forcing me to set everything up again. A sprinkler system is supposed to make watering easier, but the constant app issues make it frustrating and unreliable. I would not recommend it based on my experience." | 1.  The product is consistent because of the app. (latent)                               |
+|                                                                                                                                                                                        | 2.  The product makes your irrigation life easier(latent)|
+|
+
+| Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| "Everything about this controller was great until the rain and wind skip intelligence became inaccurate. It doesn’t sync to local weather accurately so it did not skip watering when it was raining 2.5” of rain. It also decided to perform a wind skip when there was no wind. The AC adapter is also extremely bulky and gets quite hot. Needs to improve weather intelligence. Whereas my Orbit is weather accurate and the smart setup is also easy. I should’ve stuck with that ecosystem and I’m going back to Orbit. I’m returning this." | 1.  The product syncs to local weather reports like it states. (latent)                               |
+|                                                                                                                                                                                        | 2.  The product performs in differing levels of rain (latent)|
+|
 ## Organized Need Statements
 
 ### First Placement
