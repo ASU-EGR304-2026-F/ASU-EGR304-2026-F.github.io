@@ -577,8 +577,11 @@ Groups were chosen due to obvious areas in which each needs statement was relate
 
 ### Ranked
 List from 1-100 Ranked based on 
-A: How important the need would be to a producer designing an indoor/outdoor houseplant status monitor. 
+
+A: How important the need would be to a producer designing an indoor/outdoor houseplant status monitor.
+
 B: How repetitive of the need is compared to the other needs in the list 
+
 C: Whether or not the need is something that would realistically need to be fulfilled by a producer for that product 
 
 1. The product provides accurate soil moisture readings. (explicit)
