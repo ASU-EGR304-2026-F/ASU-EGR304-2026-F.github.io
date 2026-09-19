@@ -32,50 +32,50 @@ She loves the simple installment process for her outdoor garden, and appreciates
 
 The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producer Design**
-* The product will have a display for moisture, temperature, and wetness in the soil that the product will be in.
-* The product will be deep enough to give accurate readings of surrounding soil that a plant's roots may be pulling nutrients from.
-* The product will be built to be durable in the sense of bending, rust, or corrosion.
-* The product will have a sturdy enclosure to prevent any internal systems from moisture, rain, and other unforeseen circumstances.
-* The product’s display will be large enough to be easily understood by any individual in a way that will prevent eye strain.
-* The product will be portable enough to place and replace in multiple places throughout a larger garden.
-* The product will be battery powered.
-* The product will have a power button and reset button, but aside from that will not provide uses other than the ones stated.
-* The product will be mounted through a stake like feature built into the product.
+1. **Product Design**
+      * The product will have a display for moisture, temperature, and wetness in the soil that the product will be in.
+      * The product will be deep enough to give accurate readings of surrounding soil that a plant's roots may be pulling nutrients from.
+      * The product will be built to be durable in the sense of bending, rust, or corrosion.
+      * The product will have a sturdy enclosure to prevent any internal systems from moisture, rain, and other unforeseen circumstances.
+      * The product’s display will be large enough to be easily understood by any individual in a way that will prevent eye strain.
+      * The product will be portable enough to place and replace in multiple places throughout a larger garden.
+      * The product will be battery powered.
+      * The product will have a power button and reset button, but aside from that will not provide uses other than the ones stated.
+      * The product will be mounted through a stake like feature built into the product.
      
   
 2. **Software/Functionality**
-* The product will be able to read moisture, temperature, and wetness of surrounding soil.
-* The product will be able to determine if soil has a safe amount of moisture.
-* The product will make readings consistent and stable.
-* The product will be easily able to be understood.
-* The product will be able to be reset at any time by the user.
+      * The product will be able to read moisture, temperature, and wetness of surrounding soil.
+      * The product will be able to determine if soil has a safe amount of moisture.
+      * The product will make readings consistent and stable.
+      * The product will be easily able to be understood.
+      * The product will be able to be reset at any time by the user.
 
 3. **Interactivity & User Experience**
-* The product will be able to be read at a glance.
-* The product will be straightforward to the information required.
-* The product will represent important information via dials.
-* The product's setup will be made to be simple for any individual who has not used a plant sensor before.
-* The product will be packaged with instructions on how to insert and read the product.
-* The product will be able to have its current information reset by the user at any time.
+      * The product will be able to be read at a glance.
+      * The product will be straightforward to the information required.
+      * The product will represent important information via dials.
+      * The product's setup will be made to be simple for any individual who has not used a plant sensor before.
+      * The product will be packaged with instructions on how to insert and read the product.
+      * The product will be able to have its current information reset by the user at any time.
 
 4. **Customization**
-* The product will be sold in two separate colors for different visibility purposes.
-* The product may have different lengths of probes for deeper soils.
-* The product will display units for each dial that is being displayed.
-* The product will have a red, yellow, green area on each dial to display what are considered good, mediocre, and bad conditions.
+      * The product will be sold in two separate colors for different visibility purposes.
+      * The product may have different lengths of probes for deeper soils.
+      * The product will display units for each dial that is being displayed.
+      * The product will have a red, yellow, green area on each dial to display what are considered good, mediocre, and bad conditions.
 
 5. **Manufacturing**
-* The product should be fully manufactured and ready to use out of the box.
-* The product should be manufactured with the minimum number of parts possible to deliver the performance expected by the customer.
-* The product will be composed of individual replaceable parts that constitute a whole part for ease of repair or replacement.
-* The product will be manufactured in a way that when it does eventually fail, the product will not destroy or damage its surroundings or the habitat in which it was installed.
+      * The product should be fully manufactured and ready to use out of the box.
+      * The product should be manufactured with the minimum number of parts possible to deliver the performance expected by the customer.
+      * The product will be composed of individual replaceable parts that constitute a whole part for ease of repair or replacement.
+      * The product will be manufactured in a way that when it does eventually fail, the product will not destroy or damage its surroundings or the habitat in which it was installed.
 
 6. **Safety**
-* The product will have a secure place for batteries and other electrical components assuring they will not take damage from weather or other conditions.
-* The product will be safe to use outdoors without worry for any part of the product.
-* The end of the probe will be dull enough to not puncture any living matter.
-* No electrical component will be placed externally.
+      * The product will have a secure place for batteries and other electrical components assuring they will not take damage from weather or other conditions.
+      * The product will be safe to use outdoors without worry for any part of the product.
+      * The end of the probe will be dull enough to not puncture any living matter.
+      * No electrical component will be placed externally.
 
 
 ## Requirement Criteria Specifications
