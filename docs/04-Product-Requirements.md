@@ -30,8 +30,6 @@ She loves the simple installment process for her outdoor garden, and appreciates
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
-
 1. **Product Design**
       * The product will have a display for moisture, temperature, and wetness in the soil that the product will be in.
       * The product will be deep enough to give accurate readings of surrounding soil that a plant's roots may be pulling nutrients from.
