@@ -174,13 +174,18 @@ title: Ideation and Concept Generation
 
 
 ## Sort, Rank, Group
-
-Our process of sorting, ranking, and refinement
-
 We split all of our features into 6 different catagories. Those being Sensing & Measurement, Accuracy & Reliability, Data Interpretation & Logs, User Interface & Interaction, Alerts, and Durability. Atop this, we had what we decided to be our 10 best features that we made sure to include within our 3 designs.
 
- Our top 10 features are as follows; Weight Scale, Auto Zero Function, Humidity Sensor, Pushbutton, Thermometer, Capacitive Soil Probe, Rigid Stand, Moisture Sensor, Seisometer, LED Display
-
+Listed Below is our 100 Features, also listed in their respective groupings.
+![Needs and Features 1](Design Ideation/Step 2 Part 1.png){style="width:768px;"}
+![Needs and Features 2](Design Ideation/Step 2 Part 2.png){style="width:768px;"}
+![Sensing & Measurement](Design Ideation/Sensing & Measurement.png){style="width:768px;"}
+![Accuracy & Reliability](Design Ideation/Accuracy and Reliability.png){style="width:768px;"}
+![Data Interpretation & Logs](Design Ideation/Data Interpretation and Logs.png){style="width:768px;"}
+![User Interface and Interaction](Design Ideation/User Interface and Interaction.png){style="width:768px;"}
+![Alerts](Design Ideation/Alerts){style="width:768px;"}
+![Durability](Design Ideation/Dyrability.png){style="width:768px;"}
+![The Top 10](Design Ideation/Top Ideas.png){style="width:768px;"}
 
 ## Three Product Concept Sketches
 
@@ -190,11 +195,11 @@ We split all of our features into 6 different catagories. Those being Sensing & 
 
 **Product 2-**
 
-![Plant Sensor v1](docs\image\Plant_Sensor1_EGR304.png){style="width:350px;"}
+[Plant Sensor v1](image/Plant_Sensor1_EGR304.png){style="width:350px;"}
 
 **Product 3-**
 
-![Plant Sensor v2](docs\image\Plant_Sensor2_EGR304.png){style="width:350px;"}
+![Plant Sensor v2](image/Plant_Sensor2_EGR304.png){style="width:350px;"}
 
 ## Documentation
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt;" markdown="1">
