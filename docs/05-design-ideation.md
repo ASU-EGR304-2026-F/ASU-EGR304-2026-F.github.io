@@ -184,8 +184,17 @@ We split all of our features into 6 different catagories. Those being Sensing & 
 
 ## Three Product Concept Sketches
 
-**Product 1; Irrigation system-**
+**Product 1-**
+
 ![Irrigation System](image/Irrigation_System_EGR304.png){style="width:350px;"}
+
+**Product 2-**
+
+![Plant Sensor v1](docs\image\Plant_Sensor1_EGR304.png){style="width:350px;"}
+
+**Product 3-**
+
+![Plant Sensor v2](docs\image\Plant_Sensor2_EGR304.png){style="width:350px;"}
 
 ## Documentation
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt;" markdown="1">
