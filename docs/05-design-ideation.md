@@ -8,7 +8,7 @@ Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
 cur, aut in adhuc crimina **habebat**: pro.
 
 ## Generating Ideas
-test
+
 Troy-
 
 | Need                                                              | Feature                         | Detail                                                                                     |
@@ -180,11 +180,25 @@ Carlos-
 
 ## Step Three
 
-Add your context and tables
+Our process of sorting, ranking, and refinement
+
+We split all of our features into 6 different catagories. Those being Sensing & Measurement, Accuracy & Reliability, Data Interpretation & Logs, User Interface & Interaction, Alerts, and Durability. Atop this, we had what we decided to be our 10 best features that we made sure to include within our 3 designs. 
+
 
 ## Step Four
 
 Add your different product concepts stuff here
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+## Step Five
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt;" markdown="1">
+
+Our brainstorm session started during class where we each discussed how we wanted to approach the assignment. We decided the best way to start was by slightly modifying one of the brainstorming techniques, brainwriting. Brainwriting is where each person writes down an idea they have, and they pass it on to the next person who builds on that idea which is then passed onto the next person and so on. Our team liked the general idea, but decided in order to better match our schedules we would each split up the top user needs and come up with ideas on our own to share with the group. Everyone in the team participated in the initial meeting to decide who was to do what, and each group member equally contributed with their assigned parts.
+In order to determine where the team should look for the most important problems to solve, it was determined that the ranked portion of the User Needs and Benchmarking assignment would be the best place to start. The team members went down the list selecting from the top of the rankings, knowing that those were determined to be crucial to the consumer. In some instances, lower ranked items were chosen over higher ranked ones because some items were able to give more creative freedom to ideate rather than just filling out the obvious solution. The group also determined that it would be best to look at the different groupings made so a wide variety of needs could be addressed. After that, each team member had their items and got to work.
+Team members found ideas from sources including the benchmarking products, talking with friends, google searches for similar products, inspiration from the natural world, and good old-fashioned eureka moments. To collect ideas, the team members used the whiteboard feature in Canva, where one can create a sticky note with their idea and place it under the heading with the problem statement. This way, each member could add any idea that popped into their head at any time, as well as viewing in real time the progress of others. It was the ability to sit with many options already laid out that allowed true creativity to flow, building on ideas without getting hung up on the details. Additionally, by allowing some independent time between the first meeting and the first phase of brainstorming, members didn’t feel pressured to defend their ideas and could work at their own pace, coming up with ideas as fast or as methodical as necessary. 
+Another technique that we used was the concept of question storming, where a group sets out to answer a statement instead of a question, writes down ideas individually, and sorts the results. While naturally built-in to the assignment, the team nevertheless found it very useful for the purposes of generating ideas without reservation. 
+ After this initial phase, the group then discussed the ideas they came up with virtually. Each member of the group was given the opportunity to share their ideas with the rest, and explained their reasoning throughout their process. During this discussion, each team member did a very good job explaining their ideas, and when posed with a question about their features were able to defend it convincingly. Surprisingly, the only updates to the ideas at that point were formatting/grammar, indicating that it was a strong choice. 
+Items were grouped in a similar fashion to how previous assignments were handled, by function and form. The main groups were separated into different experiences with the product, such as UI, alerts, sensing/measurement, durability, etc. This was where the most input was directed, as each member gave arguments and posed questions into how the groups should be arranged, which cleared up how we thought about our features as it relates to a finished product.
+To rank items, it was clear that some ideas and thoughts reoccurred throughout the different groups, and it was decided that these were the most important ideas. We also noticed that some of our top ranked needs showed up more often than others, as well as common features that almost all other similar products had as well. The more familiar a feature was, the more likely it was to be important. Finally, with all the rankings determined, the team split up to fulfill as many as possible into the individual designs.
+
+</div>
+
