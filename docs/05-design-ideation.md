@@ -2,14 +2,9 @@
 title: Ideation and Concept Generation
 ---
 
-## Intro/overview
-
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
-
 ## Generating Ideas
 
-Troy-
+**Troy-**
 
 | Need                                                              | Feature                         | Detail                                                                                     |
 |-------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------|
@@ -51,7 +46,7 @@ Troy-
 |                                                                 | Self Diagnostic Routine   | The device checks for sensor problems that could cause inaccurate readings.                |
 |                                                                 | Protective Probe Coating  | The device protects the probe from damage caused by long term contact with wet soil.       |
 
-Jacob-
+**Jacob-**
 
 | Need                                                                            | Feature           | Detail                                                                                                      |
 |---------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------|
@@ -93,7 +88,7 @@ Jacob-
 |                                                                             | Humidity sensor    | The device tracks humidity of outside gardens to determine if water is necessary                       |
 |                                                                             | Water Tracking Log | The device tracks watering habits of the user and impact on the plant to predict watering necessity    |
 
-Herman-
+**Herman-**
 
 | Need | Feature | Detail |
 |---|---|---|
@@ -135,7 +130,7 @@ Herman-
 |  | Sealing Gaskets | Heavy duty elastomer or rubber seals that sit around contact joints and prevent moisture and the elements from getting in sensitive electrical components. |
 |  | Reinforced Composite Body | This will allow it to be impact resistant and drop proof. This will also protect the surface from scratches. |
 
-Carlos-
+**Carlos-**
 
 | Need | Feature | Detail |
 |---|---|---|
@@ -178,18 +173,21 @@ Carlos-
 |  | Shock-Mounted Internal PCB  | Suspends internal circuit boards on flexible silicone isolators to prevent board damage.  |
 
 
-## Step Three
+## Sort, Rank, Group
 
 Our process of sorting, ranking, and refinement
 
-We split all of our features into 6 different catagories. Those being Sensing & Measurement, Accuracy & Reliability, Data Interpretation & Logs, User Interface & Interaction, Alerts, and Durability. Atop this, we had what we decided to be our 10 best features that we made sure to include within our 3 designs. 
+We split all of our features into 6 different catagories. Those being Sensing & Measurement, Accuracy & Reliability, Data Interpretation & Logs, User Interface & Interaction, Alerts, and Durability. Atop this, we had what we decided to be our 10 best features that we made sure to include within our 3 designs.
+
+ Our top 10 features are as follows; Weight Scale, Auto Zero Function, Humidity Sensor, Pushbutton, Thermometer, Capacitive Soil Probe, Rigid Stand, Moisture Sensor, Seisometer, LED Display
 
 
-## Step Four
+## Three Product Concept Sketches
 
-Add your different product concepts stuff here
+**Product 1; Irrigation system-**
+![Irrigation System](image/Irrigation_System_EGR304.png){style="width:350px;"}
 
-## Step Five
+## Documentation
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt;" markdown="1">
 
 Our brainstorm session started during class where we each discussed how we wanted to approach the assignment. We decided the best way to start was by slightly modifying one of the brainstorming techniques, brainwriting. Brainwriting is where each person writes down an idea they have, and they pass it on to the next person who builds on that idea which is then passed onto the next person and so on. Our team liked the general idea, but decided in order to better match our schedules we would each split up the top user needs and come up with ideas on our own to share with the group. Everyone in the team participated in the initial meeting to decide who was to do what, and each group member equally contributed with their assigned parts.
