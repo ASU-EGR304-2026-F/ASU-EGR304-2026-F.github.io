@@ -4,8 +4,6 @@ title: Ideation and Concept Generation
 
 ## Generating Ideas
 
-**Troy-**
-
 | Need                                                              | Feature                         | Detail                                                                                     |
 |-------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------|
 | The product provides accurate soil moisture readings. (explicit)  | Capacitive Soil Probe           | The device measures changes in the soil to estimate how much water is present.             |
@@ -45,8 +43,6 @@ title: Ideation and Concept Generation
 |                                                                 | Replaceable Sensor Probe  | The device allows worn sensors to be replaced without replacing the entire product.        |
 |                                                                 | Self Diagnostic Routine   | The device checks for sensor problems that could cause inaccurate readings.                |
 |                                                                 | Protective Probe Coating  | The device protects the probe from damage caused by long term contact with wet soil.       |
-
-**Jacob-**
 
 | Need                                                                            | Feature           | Detail                                                                                                      |
 |---------------------------------------------------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------|
@@ -88,8 +84,6 @@ title: Ideation and Concept Generation
 |                                                                             | Humidity sensor    | The device tracks humidity of outside gardens to determine if water is necessary                       |
 |                                                                             | Water Tracking Log | The device tracks watering habits of the user and impact on the plant to predict watering necessity    |
 
-**Herman-**
-
 | Need | Feature | Detail |
 |---|---|---|
 | The product remains readable under typical outdoor lighting conditions. (explicit) | LED Display | The device screen lights up brightly using LED to provide a clear and highly visible screen. |
@@ -129,8 +123,6 @@ title: Ideation and Concept Generation
 |  | Hydrophobic Coating | This is a specialized surface treatment that repels wet dirt and mud which prevents soil buildup and makes the device easy to clean. |
 |  | Sealing Gaskets | Heavy duty elastomer or rubber seals that sit around contact joints and prevent moisture and the elements from getting in sensitive electrical components. |
 |  | Reinforced Composite Body | This will allow it to be impact resistant and drop proof. This will also protect the surface from scratches. |
-
-**Carlos-**
 
 | Need | Feature | Detail |
 |---|---|---|
@@ -213,15 +205,3 @@ Items were grouped in a similar fashion to how previous assignments were handled
 To rank items, it was clear that some ideas and thoughts reoccurred throughout the different groups, and it was decided that these were the most important ideas. We also noticed that some of our top ranked needs showed up more often than others, as well as common features that almost all other similar products had as well. The more familiar a feature was, the more likely it was to be important. Finally, with all the rankings determined, the team split up to fulfill as many as possible into the individual designs.
 
 </div>
-
-## Other Documentation
-
-**Individual**
-Troy-
-I came up with my product idea from an overall standpoint of the plant sensor idea we are working on. After overlooking all of the features and needs that we as a team decided to use for our final product, I was able to pick out a select few that seemed to be the most important for my iteration of our product.
-Carlos-
-When thinking up my product idea, the first thought that came to mind was hanging it on the side of the pot plant so it was out of the line of fire of water when it was being watered. I also wanted my design to include a way to measure light levels and maintain a database of that information. I also wanted to focus on having a device that was built tough to resist liquid, dust, and corrosion.
-![Carlos' Initial Sketches](image/Plant_Sensor2_EGR304_Initial.png){style="width:350px;"}
-
-**Team**
-During class on 9/23 we spoke about our 100 features that were derived from 20 of our main product ideas. We decided upon the main 3 products that we wanted to create preliminary designs for, this includes the irrigation system, and two possible iterations of the plant sensor. Over the next couple days the team split up and worked on our own drawings, information documentation, and models.
