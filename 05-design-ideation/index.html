@@ -762,73 +762,157 @@
 cur, aut in adhuc crimina <strong>habebat</strong>: pro.</p>
 <h2 id="generating-ideas">Generating Ideas</h2>
 <p>Troy
-|                   requirement / need | feature | detail                                                                      |
-| -----------------------------------: | :-----: | --------------------------------------------------------------------------- |
-| The product provides accurate soil moisture readings. (explicit)| Capacitive Soil Probe|The device measures changes in the soil to estimate how much water is present.|
-|                                      | Soil Moisture Calibration Dial|The device lets the user adjust the sensor to match known dry and wet soil conditions.|
-|                                      |  Multi Depth Probe|The device measures moisture at different depths to check how evenly the soil is watered.|
-|                                  |   Analog to Digital Converter   |The device changes the sensor's electrical signal into data the microcontroller can read.|
-|                                 |Probe Temperature Compensation|The device adjusts the moisture reading when temperature changes affect the sensor. |</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
-<p>|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|
-|.|.|.|</p>
+| Need                                                              | Feature                         | Detail                                                                                     |
+|-------------------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------|
+| The product provides accurate soil moisture readings. (explicit)  | Capacitive Soil Probe           | The device measures changes in the soil to estimate how much water is present.             |
+|                                                                   | Soil Moisture Calibration Dial  | The device lets the user adjust the sensor to match known dry and wet soil conditions.     |
+|                                                                   | Multi Depth Probe               | The device measures moisture at different depths to check how evenly the soil is watered.  |
+|                                                                   | Analog to Digital Converter     | The device changes the sensor's electrical signal into data the microcontroller can read.  |
+|                                                                   | Probe Temperature Compensation  | The device adjusts the moisture reading when temperature changes affect the sensor.        |</p>
+<table>
+<thead>
+<tr>
+<th>Need</th>
+<th>Feature</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The product provides accurate light intensity readings. (explicit)</td>
+<td>Photodiode</td>
+<td>The device produces a signal based on how much light reaches the sensor.</td>
+</tr>
+<tr>
+<td></td>
+<td>Lux Conversion Circuit</td>
+<td>The device converts the light sensor's signal into a light level measured in lux.</td>
+</tr>
+<tr>
+<td></td>
+<td>Light Diffusing Cover</td>
+<td>The device spreads light across the sensor to help prevent inaccurate readings from bright spots.</td>
+</tr>
+<tr>
+<td></td>
+<td>Adjustable Sensor Gain</td>
+<td>The device changes the sensor's sensitivity so it can measure both low and high light levels.</td>
+</tr>
+<tr>
+<td></td>
+<td>Ambient Light Shield</td>
+<td>The device blocks unwanted light from certain directions to improve the reading.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Need</th>
+<th>Feature</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The product provides information that is easy to interpret. (explicit)</td>
+<td>Seven Segment Display</td>
+<td>The device shows measurements using easy to read numbers.</td>
+</tr>
+<tr>
+<td></td>
+<td>Rotary Encoder</td>
+<td>The device lets the user switch between different plant measurements by turning a control.</td>
+</tr>
+<tr>
+<td></td>
+<td>Status Indicator Bar</td>
+<td>The device shows the current condition of a measurement using a series of indicators.</td>
+</tr>
+<tr>
+<td></td>
+<td>Measurement Units Selector</td>
+<td>The device lets the user choose between different measurement units, such as Celsius and Fahrenheit.</td>
+</tr>
+<tr>
+<td></td>
+<td>Threshold Indicator</td>
+<td>The device shows when a measurement is too low, acceptable, or too high.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Need</th>
+<th>Feature</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The product provides consistent readings across repeated measurements. (latent)</td>
+<td>Averaging Algorithm</td>
+<td>The device combines several readings to create a more stable measurement.</td>
+</tr>
+<tr>
+<td></td>
+<td>Sensor Warm Up Routine</td>
+<td>The device gives the sensors time to stabilize before taking measurements.</td>
+</tr>
+<tr>
+<td></td>
+<td>Probe Position Guide</td>
+<td>The device helps the user place the probe at the same depth each time.</td>
+</tr>
+<tr>
+<td></td>
+<td>Outlier Rejection</td>
+<td>The device removes unusual readings that are far different from the others.</td>
+</tr>
+<tr>
+<td></td>
+<td>Reference Resistor</td>
+<td>The device provides a stable electrical value to help keep sensor readings consistent.</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Need</th>
+<th>Feature</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The product maintains measurement accuracy over time. (latent)</td>
+<td>Auto Zero Function</td>
+<td>The device creates a new starting point for the sensor when needed.</td>
+</tr>
+<tr>
+<td></td>
+<td>Calibration Memory</td>
+<td>The device saves calibration settings so they are not lost when the device is turned off.</td>
+</tr>
+<tr>
+<td></td>
+<td>Replaceable Sensor Probe</td>
+<td>The device allows worn sensors to be replaced without replacing the entire product.</td>
+</tr>
+<tr>
+<td></td>
+<td>Self Diagnostic Routine</td>
+<td>The device checks for sensor problems that could cause inaccurate readings.</td>
+</tr>
+<tr>
+<td></td>
+<td>Protective Probe Coating</td>
+<td>The device protects the probe from damage caused by long term contact with wet soil.</td>
+</tr>
+</tbody>
+</table>
 <h2 id="step-three">Step Three</h2>
 <p>Add your context and tables</p>
 <h2 id="step-four">Step Four</h2>
