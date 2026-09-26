@@ -1,5 +1,5 @@
 ---
-title: Design Ideation
+title: Ideation and Concept Generation
 ---
 
 ## Intro/overview
