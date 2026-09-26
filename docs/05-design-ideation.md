@@ -209,8 +209,13 @@ To rank items, it was clear that some ideas and thoughts reoccurred throughout t
 ## Other Documentation
 
 **Individual**
+
 Troy-
 I came up with my product idea from an overall standpoint of the plant sensor idea we are working on. After overlooking all of the features and needs that we as a team decided to use for our final product, I was able to pick out a select few that seemed to be the most important for my iteration of our product.
+
+Herman-
+I came up with the product idea by identifying a need for users when it came to planting overall. I also designed my idea by thinking practically. Like asking myself what one would need in order to have a self sustaining garden or plant collection. Lastly, I picked what I thought were the most important features regarding an irrigation system and stuck with those.
+
 Carlos-
 When thinking up my product idea, the first thought that came to mind was hanging it on the side of the pot plant so it was out of the line of fire of water when it was being watered. I also wanted my design to include a way to measure light levels and maintain a database of that information. I also wanted to focus on having a device that was built tough to resist liquid, dust, and corrosion.
 
