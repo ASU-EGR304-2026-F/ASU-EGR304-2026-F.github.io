@@ -177,7 +177,7 @@ Listed Below is our 100 Features, also listed in their respective groupings.
 ![User Interface and Interaction](Design Ideation/User Interface and Interaction.png){style="width:768px;"}
 ![Alerts](Design Ideation/Alerts.png){style="width:768px;"}
 ![Durability](Design Ideation/Durability.png){style="width:768px;"}
-![The Top 10](Design Ideation/Top Ideas.png){style="width:768px;"}
+![Yamron](image/Top_Ideas_Ideation.png){style="width:768px;"}
 
 ## Three Product Concept Sketches
 
@@ -185,13 +185,19 @@ Listed Below is our 100 Features, also listed in their respective groupings.
 
 ![Irrigation System](image/Irrigation_System_EGR304.png){style="width:350px;"}
 
+This product utilizes multiple important features in its design. It utilizes sensors mainly. These include a humidity sensor, thermometer, seismometer, and weight scales. This all helps the underlying need for the product to be adaptable and self sustaining. The physical water spouts and the rigid stands meet physical needs by being able to last many years and be durable enough to withstand normal wear and tear conditions as the user should expect from it. Overall, this product meets many of the most important user needs by utilizing some of the most effective and consequential features that were discussed during the planning process.
+
 **Product 2-**
 
 ![Plant Sensor v1](image/Plant_Sensor1_EGR304.png){style="width:350px;"}
 
+This product is able to use its probe and built in moisture sensor to easily display information such as moisture, temperature of the soil, external temperature, and other needs. This information is displayed on the recessed LED display that is built into the waterproof casing. On the top of the device there is a zero function for when you may swap its location or when you want to ensure the reading/reset the reading for any need, additionally it has a button for power and to swap what information is being displayed on the LED Display.
+
 **Product 3-**
 
 ![Plant Sensor v2](image/Plant_Sensor2_EGR304.png){style="width:350px;"}
+
+This product is designed to take down light, moisture, and temperature measurements, information that is valuable to keep customers' plants alive, while also being built tough to withstand any harsh elements that could harm this device. This design features a moisture sensor, light sensor, an LED display, thermometer, control knob, waterproof housing, measurement backlog, and a hook on design meant to keep less water from splashing onto the device when the plant is being watered.
 
 ## Documentation
 <div style="font-family: 'Times New Roman', Times, serif; font-size: 12pt;" markdown="1">
@@ -202,24 +208,6 @@ Team members found ideas from sources including the benchmarking products, talki
 Another technique that we used was the concept of question storming, where a group sets out to answer a statement instead of a question, writes down ideas individually, and sorts the results. While naturally built-in to the assignment, the team nevertheless found it very useful for the purposes of generating ideas without reservation. 
  After this initial phase, the group then discussed the ideas they came up with virtually. Each member of the group was given the opportunity to share their ideas with the rest, and explained their reasoning throughout their process. During this discussion, each team member did a very good job explaining their ideas, and when posed with a question about their features were able to defend it convincingly. Surprisingly, the only updates to the ideas at that point were formatting/grammar, indicating that it was a strong choice. 
 Items were grouped in a similar fashion to how previous assignments were handled, by function and form. The main groups were separated into different experiences with the product, such as UI, alerts, sensing/measurement, durability, etc. This was where the most input was directed, as each member gave arguments and posed questions into how the groups should be arranged, which cleared up how we thought about our features as it relates to a finished product.
-To rank items, it was clear that some ideas and thoughts reoccurred throughout the different groups, and it was decided that these were the most important ideas. We also noticed that some of our top ranked needs showed up more often than others, as well as common features that almost all other similar products had as well. The more familiar a feature was, the more likely it was to be important. Finally, with all the rankings determined, the team split up to fulfill as many as possible into the individual designs.
+To rank items, it was clear that some ideas and thoughts reoccurred throughout the different groups, and it was decided that these were the most important ideas. We also noticed that some of our top ranked needs showed up more often than others, as well as common features that almost all other similar products had as well. The more familiar a feature was, the more likely it was to be important. Finally, with all the rankings determined, the team began to fulfill as many as possible into the individual designs.
 
 </div>
-
-## Other Documentation
-
-**Individual**
-
-Troy-
-I came up with my product idea from an overall standpoint of the plant sensor idea we are working on. After overlooking all of the features and needs that we as a team decided to use for our final product, I was able to pick out a select few that seemed to be the most important for my iteration of our product.
-
-Herman-
-I came up with the product idea by identifying a need for users when it came to planting overall. I also designed my idea by thinking practically. Like asking myself what one would need in order to have a self sustaining garden or plant collection. Lastly, I picked what I thought were the most important features regarding an irrigation system and stuck with those.
-
-Carlos-
-When thinking up my product idea, the first thought that came to mind was hanging it on the side of the pot plant so it was out of the line of fire of water when it was being watered. I also wanted my design to include a way to measure light levels and maintain a database of that information. I also wanted to focus on having a device that was built tough to resist liquid, dust, and corrosion.
-
-![Carlos' Initial Sketches](image/Plant_Sensor2_EGR304_Initial.png){style="width:350px;"}
-
-**Team**
-During class on 9/23 we spoke about our 100 features that were derived from 20 of our main product ideas. We decided upon the main 3 products that we wanted to create preliminary designs for, this includes the irrigation system, and two possible iterations of the plant sensor. Over the next couple days the team split up and worked on our own drawings, information documentation, and models.
