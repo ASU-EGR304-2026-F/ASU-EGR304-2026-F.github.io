@@ -213,6 +213,7 @@ Troy-
 I came up with my product idea from an overall standpoint of the plant sensor idea we are working on. After overlooking all of the features and needs that we as a team decided to use for our final product, I was able to pick out a select few that seemed to be the most important for my iteration of our product.
 Carlos-
 When thinking up my product idea, the first thought that came to mind was hanging it on the side of the pot plant so it was out of the line of fire of water when it was being watered. I also wanted my design to include a way to measure light levels and maintain a database of that information. I also wanted to focus on having a device that was built tough to resist liquid, dust, and corrosion.
+
 ![Carlos' Initial Sketches](image/Plant_Sensor2_EGR304_Initial.png){style="width:350px;"}
 
 **Team**
